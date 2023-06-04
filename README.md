@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on: **Data Analytics & Machine Learning Projects**
 
-- 👨‍💻 My BI Portfolio: [https://linktr.ee/shahrukh2016](https://linktr.ee/shahrukh2016)
+- 👨‍💻 Checkout my BI Portfolio: **[https://linktr.ee/shahrukh2016](https://linktr.ee/shahrukh2016)**
 
 - 💬 Ask me about: **SQL, Python, Machine Learning**
 
@@ -19,12 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahrukhahmad26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahrukhahmad26" height="30" width="40" /></a>
-<a href="https://kaggle.com/shahrukh26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shahrukh26" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.guitarist26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.guitarist26" height="30" width="40" /></a>
-<a href="https://medium.com/@shahrukhspn2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahrukhspn2016" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/unexpected_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="unexpected_123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shahrukh2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shahrukh2016" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shahrukhspn2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahrukhspn2016" height="30" width="40" /></a>
+<a href="https://medium.com/@shahrukhspn2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahrukhspn2016" height="30" width="40" /></a>
+<a href="https://kaggle.com/shahrukh26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shahrukh26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
