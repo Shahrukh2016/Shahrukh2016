@@ -1,11 +1,10 @@
-![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
 <h1 align="center">Hi 👋, I'm Shahrukh Ahmad</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">Machine Learning Intern @Ignitus</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukh2016&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukh2016" /> </p>
 
-- 🔭 I’m currently working on: **Almabetter**
+- 🔭 I’m currently working in: **Ignitus and Almabetter**
 
 - 🌱 I’m currently learning: **SQL & Python**
 
