@@ -24,6 +24,9 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          # Update the version to use Node.js 16
+          node-version: '16'
 
     # Generates the snake  
       - uses: Platane/snk@master
