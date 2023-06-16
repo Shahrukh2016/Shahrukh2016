@@ -14,6 +14,10 @@
 
 - 💬 Ask me about: **SQL, Python, Machine Learning**
 
+- 🚀 Netflix Recommender System: [Web App](https://huggingface.co/spaces/Shahrukh2016/Netflix_Recommender_System)
+
+- ⭐ Explore my live Visualization Dashboards: **[Click here](https://www.novypro.com/profile_projects/shahrukhahmad26)**
+
 - 📫 How to reach me: **shahrukhspn2016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
