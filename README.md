@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shahrukh Ahmad</h1>
-<h3 align="center">"Data Science Intern @Almabetter" and "Machine Learning Intern @Ignitus"</h3>
+<h3 align="center">"Data Analyst @Cartesian Consulting" and "Data Scientist @Almabetter"</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukh2016&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukh2016" /> </p>
 
-- 🔭 I’m currently working: **@Almabetter and @Ignitus**
+- 🔭 I’m currently working: **@Cartesian Consulting and @Almabetter**
 
 - 🌱 I’m currently learning: **SQL & Python**
 
