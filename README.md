@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working: **@Cartesian Consulting and @Almabetter**
 
-- 🥽 Experience:
-  Machine Learning Intern @Growth Loops Technologies and @Ignitus
+- 🥽 Experience: ML Intern @Growth Loops Technologies and @Ignitus
 
 - 🌱 Currently learning: **SQL & Python**
 
