@@ -7,6 +7,7 @@
 - 🔭 I’m currently working: **@Phenom People**
 
 - 🥽 Experience:
+    - Data Analyst **@Phenom People**  
     - Analyst **@Cartesian Consulting**
     - Data Scientist **@Growth Loops Technologies**
     - Machine Learning Intern **@Ignitus**
