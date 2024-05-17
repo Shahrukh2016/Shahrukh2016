@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shahrukh Ahmad</h1>
-<h2 align="center">Data Analyst @Phenom People </h2>
+<h2 align="center">Data Analyst at Phenom People </h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukh2016&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukh2016" /> </p>
 
 - 🔭 I’m currently working: **@Phenom People**
 
-- 🥽 Experience: 1. Analyst **@Cartesian Consulting
-- 2.  Data Scientist **@Growth Loops Technologies** and **@Ignitus**
+- 🥽 Experience: 1. Analyst **@Cartesian Consulting**
+    2.  Data Scientist **@Growth Loops Technologies** and **@Ignitus**
+    3.  eetrnrbeb
 
 - 🌱 Currently learning: **SQL & Python**
 
