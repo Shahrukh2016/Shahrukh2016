@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shahrukh Ahmad</h1>
-<h3 align="center">"Data Analyst @Cartesian Consulting" and "Data Scientist @Almabetter"</h3>
+<h3 align="center">"Data Analyst @Phenom People" </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukh2016&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukh2016" /> </p>
 
-- 🔭 I’m currently working: **@Cartesian Consulting and @Almabetter**
+- 🔭 I’m currently working: **@Phenom People**
 
-- 🥽 Experience: ML Intern @Growth Loops Technologies and @Ignitus
+- 🥽 Experience: Data Scientist @Growth Loops Technologies and @Ignitus
 
 - 🌱 Currently learning: **SQL & Python**
 
@@ -14,9 +14,9 @@
 
 - 👨‍💻 Checkout my BI Portfolio: **[https://linktr.ee/shahrukh2016](https://linktr.ee/shahrukh2016)**
 
-- 💬 Ask me about: **SQL, Python, Machine Learning**
+- 💬 Ask me about: **SQL, Python, Machine Learning, LLMs**
 
-- 🚀 Model Deployment (Netflix Recommender System): [Web App](https://huggingface.co/spaces/Shahrukh2016/Netflix_Recommender_System)
+- 🚀 Model Deployment (Netflix Recommender System): [Web App](https://huggingface.co/spaces/Shahrukh2016/Netflix_Recommender)
 
 - ⭐ Explore my Live Visualization Dashboards: **[Click here](https://www.novypro.com/profile_projects/shahrukhahmad26)**
 
