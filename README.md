@@ -12,9 +12,11 @@
     - Data Scientist **@Growth Loops Technologies**
     - Machine Learning Intern **@Ignitus**
 
-- 🌱 Currently learning: **SQL & Python**
+- 🌱 Currently learning: **LLM and Generative AI**
 
 - 👯 I’m looking to collaborate on: **Data Analytics & Machine Learning Projects**
+  
+- 🛠️ Tech Stack: SQL, Python, Excel, Power BI, Machine Learning, Deep Learning, NLP, LLM, Generative AI, Snowflake, MongoDB, AWS S3, Amazon SageMaker, Streamlit, Hugging Face, Langchain.
 
 - 👨‍💻 Checkout my BI Portfolio: **[https://linktr.ee/shahrukh2016](https://linktr.ee/shahrukh2016)**
 
