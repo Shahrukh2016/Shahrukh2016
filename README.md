@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahrukh Ahmad</h1>
+<h1 align="center">Hi 👋, I'm sANTOSH</h1>
 <h2 align="center">Data Analyst at Phenom People </h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
