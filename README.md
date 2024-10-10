@@ -26,7 +26,7 @@
 
 - ⭐ Explore my Live Visualization Dashboards: **[Click here](https://www.novypro.com/profile_projects/shahrukhahmad26)**
 
-- 📫 How to reach me: **shahrukhspn2016@gmail.com**
+- 📫 How to reach me: **shahrukhspn2016@gmail.com** | **https://www.linkedin.com/in/shahrukhahmad26/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
