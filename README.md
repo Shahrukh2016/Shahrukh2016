@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukh2016&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukh2016" /> </p>
 
-- 🔭 I’m currently working: **@Phenom People**
+- 🔭 I’m currently working: **@Google Operation Center**
 
 - 🥽 Experience:
     - Senior Data Analyst **@Google Operation Center** 
