@@ -10,7 +10,7 @@
     - Senior Data Analyst **@Google Operation Center** 
     - Data Analyst **@Phenom People**  
     - Analyst **@Cartesian Consulting**
-    - Data Scientist **@Growth Loops Technologies**
+    - Data Scientist Intern **@Growth Loops Technologies**
     - Machine Learning Intern **@Ignitus**
 
 - 🌱 Currently learning: **LLM and Generative AI**
