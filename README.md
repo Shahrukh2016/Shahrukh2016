@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahrukh Ahmad</h1>
-<h2 align="center">Data Analyst at Phenom People </h2>
+<h2 align="center">Senior Data Analyst at Google Operation Center</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukh2016&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukh2016" /> </p>
@@ -7,6 +7,7 @@
 - 🔭 I’m currently working: **@Phenom People**
 
 - 🥽 Experience:
+    - Senior Data Analyst **@Google Operation Center** 
     - Data Analyst **@Phenom People**  
     - Analyst **@Cartesian Consulting**
     - Data Scientist **@Growth Loops Technologies**
@@ -14,7 +15,7 @@
 
 - 🌱 Currently learning: **LLM and Generative AI**
 
-- 👯 I’m looking to collaborate on: **Data Analytics & Machine Learning Projects**
+- 👯 I’m looking to collaborate on: **Data Analytics, Data Engineering & Machine Learning Projects**
   
 - 🛠️ Tech Stack: **SQL, Python, Excel, Power BI, Machine Learning, Deep Learning, NLP, LLM, Generative AI, Snowflake, MongoDB, AWS S3, Amazon SageMaker, Streamlit, Hugging Face, Langchain.**
 
