@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on: **Data Analytics, Data Engineering & Machine Learning Projects**
   
-- 🛠️ Tech Stack: **SQL, Python, Excel, Power BI, Machine Learning, Deep Learning, NLP, LLM, Generative AI, Snowflake, MongoDB, AWS S3, Amazon SageMaker, Streamlit, Hugging Face, Langchain.**
+- 🛠️ Tech Stack: **SQL, Python, Excel, Power BI, Machine Learning, Deep Learning, NLP, LLM, Generative AI, Snowflake, MongoDB, AWS S3, Amazon SageMaker, Streamlit, Hugging Face, OpenAI, LangChain, LangGraph**
 
 - 👨‍💻 Checkout my BI Portfolio: **[https://linktr.ee/shahrukh2016](https://linktr.ee/shahrukh2016)**
 
