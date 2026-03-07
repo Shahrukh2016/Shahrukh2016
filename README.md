@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahrukh Ahmad</h1>
-<h2 align="center">Senior Data Analyst at Google Operation Center</h2>
+<h2 align="center">Data Analytics & Engineering Specialist at Google Operation Center</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukh2016&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukh2016" /> </p>
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working: **@Google Operation Center**
 
 - 🥽 Experience:
-  - Senior Data Analyst **@Google Operation Center** 
+  - Data Analytics & Engineering Specialist **@Google Operation Center** 
   - Data Analyst **@Phenom People**  
   - Analyst **@Cartesian Consulting**
   - Data Scientist Intern **@Growth Loops Technologies**
